@@ -12,7 +12,7 @@ There are a few important rules which must be followed when contributing to the 
 
 All commits should be created using the following format:
 
-`typ: body`
+`type: body`
 
 Example of commit messages formatted this way:
 
